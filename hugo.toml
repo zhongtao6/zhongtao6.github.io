@@ -1,7 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://zhongtao6.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = "Raw Thought: Zhongtao Liu's Weblog"
+theme = 'hugo-book'
 
 [caches]
 [caches.images]
