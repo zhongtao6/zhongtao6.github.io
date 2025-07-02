@@ -1,6 +1,6 @@
 baseURL = 'https://zhongtao6.github.io/'
 languageCode = 'en-us'
-title = "Raw Thought: Zhongtao Liu's Weblog"
+title = "Raw Thought"
 theme = 'hugo-book'
 
 [caches]
